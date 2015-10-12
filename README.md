@@ -15,4 +15,6 @@ Leetcode Solution
 | 11 | Container With Most Water | 2015-10-11 | [JAVA](https://github.com/yanghui15/leetcode/blob/master/11/Solution.java) |
 | 12 | Integer to Roman | 2015-10-11 | [JAVA](https://github.com/yanghui15/leetcode/blob/master/12/Solution.java) |
 | 13 | Roman to Integer | 2015-10-12 | [JAVA](https://github.com/yanghui15/leetcode/blob/master/13/Solution.java) |
+| 14 | Longest Common Prefix | 2015-10-12 | [JAVA](https://github.com/yanghui15/leetcode/blob/master/14/Solution.java) |
+
 
